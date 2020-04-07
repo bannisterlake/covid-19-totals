@@ -1,0 +1,18 @@
+{
+  "generated": "2020-04-07T18:09:36.3638442Z",
+  "customList": [
+    {
+      "id": 3387,
+      "topicBroadcastName": "COVID-19 World Totals",
+      "topicName": "COVID-19 World Totals",
+      "modifiedDate": "2020-04-07T09:08:11-04:00",
+      "confirmed": "1397312",
+      "newcases": "51308",
+      "deaths": "80933",
+      "newdeaths": "6279",
+      "recovered": "298513",
+      "activeCases": "1017866",
+      "seriousCases": "47780"
+    }
+  ]
+}
